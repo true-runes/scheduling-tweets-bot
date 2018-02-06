@@ -79,7 +79,7 @@ class NotifyIfMusicEngineTweets
   end
 
   def main
-    notify(new_tweets)
+    notify(new_tweets.reverse)
     set_max_tweet_id_to_redis
   end
 end
