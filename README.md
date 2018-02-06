@@ -1,5 +1,5 @@
 # Overview
-- scheduling tweet bot
+- scheduling tweets bot
     - `gs2_ticket_status`
     - `notify_if_music_engine_tweets`
     - ...
